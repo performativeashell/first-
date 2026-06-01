@@ -1,4 +1,5 @@
 # first
 <h1> SCIENCE </h1>
 <p1> This is a website for students who are interested in science and pursuing it as a career </p1>
-
+<h2>CHEMISTRY</h2>
+<p2>Chemistry is the scientific study of matter—defined as anything that has mass and takes up space—and the substances that constitute it. It focuses on the composition, structure, properties, and behavior of atoms, molecules, and ions, as well as the changes they undergo during chemical reactions.Core Aspects of ChemistryStudy of Matter: Analyzes elements and compounds, ranging from small atoms to massive, complex molecules like DNA.Properties and Structure: Investigates the physical and chemical characteristics of substances.Transformation: Examines how substances interact, rearrange, and change into new substances through chemical bonds.Energy Transfer: Focuses on energy released or absorbed during these transformations.Common BranchesOrganic Chemistry: Study of carbon compounds.Inorganic Chemistry: Study of non-living, non-carbon-based materials.Physical Chemistry: Study of chemical systems through physics principles.Biochemistry: Study of chemical processes within living organisms.Chemistry is considered a "central science" because it connects other scientific fields like biology, geology, and physics</p2>
